@@ -74,6 +74,6 @@ int main()
 	insertionSort;
 	display();
 	system("pause");
-    return 0;
+	return 0;
 }
   
